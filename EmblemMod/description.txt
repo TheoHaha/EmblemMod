@@ -1,0 +1,16 @@
+Are you tired of killing the Wall of Flesh over and over again, only to never drop your desired class emblem? 
+Do you have duplicates of duplicates of all the other emblems, but not the one you want? 
+Have you ever wanted a thrower emblem added to the game?
+
+If you answered yes to any of the questions above, this mod is for you!
+
+So what this mod does is add a couple of recipes that allow the player to craft one class emblem (warrior, ranger, sorcerer, summoner or thrower) by combining the other four in a Tinkerer's workshop, kinda like you can do with the lunar pillar fragments.
+
+I made this mod for the sake of practice. Haven't tried it in multiplayer, but it *shouldn't* create any problems.
+
+Credit goes to discord user "maker of scratchock live#5836" for the Thrower Emblem idea and sprite!
+
+Changelog:
+ver 0.1: Release.
+ver 0.2: Changed the mod's display name from "I Want My Class Emblem" to "Craftable WoF Class Emblems" so it makes more sense. Added a new class emblem for the throwing class.
+ver 0.2.1: Added a little icon.

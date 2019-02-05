@@ -1,0 +1,4 @@
+author = Theo
+version = 0.2.1
+displayName = Craftable WoF Class Emblems
+buildIgnore = *.csproj, *.user, obj\*, bin\*, .vs\*
